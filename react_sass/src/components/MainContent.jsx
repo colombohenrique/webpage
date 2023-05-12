@@ -1,13 +1,13 @@
 import '../styles/components/maincontent.sass';
 import AboutContainer from './AboutContainer';
-import ProjectsContainer from './ProjectsContainer';
 import TechnologiesContainer from './TechnologiesContainer';
+import WorkExperienceContainer from './WorkExperienceContainer';
 
 const MainContent = () => {
     return <main id="main-content">
         <AboutContainer/>
         <TechnologiesContainer/>
-        <ProjectsContainer/>
+        <WorkExperienceContainer/>
     </main>;
 };
 
