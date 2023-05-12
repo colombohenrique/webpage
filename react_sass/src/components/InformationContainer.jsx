@@ -1,11 +1,11 @@
 import '../styles/components/informationcontainer.sass';
-import {AiFillPhone, AiOutlineMail, AiFillEnvironment} from 'react-icons/ai'
+import {AiOutlineMail, AiFillEnvironment, AiOutlineWhatsApp} from 'react-icons/ai'
 
 const InformationContainer = () => {
     return (
         <section id="information">
             <div className="info-card">
-                <AiFillPhone id='phone-icon'/>
+                <a href='https://wa.me/5514996696599' target='_blank'><AiOutlineWhatsApp id='phone-icon'/></a>
                 <div>
                     <h3>Telefone</h3>
                     <p>(14) 99669-6599</p>
@@ -13,7 +13,7 @@ const InformationContainer = () => {
             </div>
 
             <div className="info-card">
-                <AiOutlineMail id='email-icon'/>
+                <a href='mailto:jhbcolombo@gmail.com'><AiOutlineMail id='email-icon'/></a>
                 <div>
                     <h3>E-mail</h3>
                     <p>jhbcolombo@gmail.com</p>

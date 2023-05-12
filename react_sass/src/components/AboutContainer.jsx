@@ -4,7 +4,7 @@ const AboutContainer = () => {
             <h2>Sobre</h2>
             <p>
                 Formado em Ciência da Computação pela <a href="https://unisagrado.edu.br/" target="_blank"> UNISAGRADO</a>, atuo como desenvolvedor, em sua maioria back-end, 
-            desde 2019, trabalhando principalmente com a Lingaguem C#.
+            desde 2019, trabalhando principalmente com a Linguagem C#.
             </p>
             <p>
                 Atualmente, participo de projetos como Fullstack tendo o papel de desenvolver, auxiliar e monitorar front-end,back-end e banco de dados. 
