@@ -11,7 +11,7 @@ const AboutContainer = () => {
                 Já cooperei com projetos novos, participando desde o levantamento de requisitos, modelagem e estruturação, com projetos em produção, fazendo a manutenção, 
                 correção de bugs e acréscimos de funcionalidades, e projetos legado, fazendo a atualização de funcionamento, migração de tecnlogia e ajustes.
             </p>
-            <p>Minhas caracteristicas principais são dedicação e resiliência.</p>
+            <p>Minhas caracteristicas principais são dedicação e comprometimento.</p>
         </section>
     )
 };

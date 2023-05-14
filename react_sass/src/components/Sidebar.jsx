@@ -9,9 +9,6 @@ const Sidebar = () => {
         <p className="name">José Henrique Bispo Colombo</p>
         <SocialNetworks/>
         <InformationContainer/>
-        <a href="" className="btn">
-            Donwload curriculo
-        </a>
     </div>;
 }
 
